@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "David Kay",
+      "authorEmail": "dkay@mdek12.org",
+      "authorUrl": ""
+    }
+  }
+}

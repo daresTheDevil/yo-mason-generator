@@ -1,0 +1,5 @@
+# <%= appName %>
+
+<%= appDescription %>
+
+> <%= author %>
